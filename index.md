@@ -18,6 +18,7 @@ CyberPatriot automation scripting
 
 ### Neo Trinkey USB Rubber Ducky
 
+![Adafruit Neo Trinkey](bobrosscoin.png).
 placeholder for image of my neo TRINKEY LOOK HERE!!!!!!
 
 I used an Adafruit Neo Trinkey flashed CircuitPython to create a Bad USB/USB rubber ducky device. The goal of this project was to learn how malicious USB devices operate, and what they are capable of.
