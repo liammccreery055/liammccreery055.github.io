@@ -34,20 +34,20 @@ This is important since a misconfiguration in security could cause millions of d
 
 ### Cyber Patriot Scripting
 
-INCLUDE PICTURE HERE
+![cyberpatriot logo](IMG_0928.jpeg).
 
 
 WRITE UP HERE  
 
 ### Python SSH Monitor
 
-PICTURE HERE
+![python logo](IMG_0927.png).
 
 WRITE UP HERE 
 
 ### Deploy SIEM In Home Lab(planned)
 
-PICTURE OF SIEM you will use
+![splunk logo](IMG_0926.jpeg).
 
 WRITE UP PLAN FOR PROJECT
 
