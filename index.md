@@ -24,7 +24,7 @@ Python SSH monitoring Tool (in progess)
 
 ### Neo Trinkey USB Rubber Ducky
 
-![Adafruit Neo Trinkey](neotrinkey.jpg).
+![Adafruit Neo Trinkey](neotrinkey.jpg)
 
 I used an Adafruit Neo Trinkey flashed CircuitPython to create a Bad USB/USB rubber ducky device. The goal of this project was to learn how malicious USB devices operate, and what they are capable of.
 The motivation behind this project was to create a tool that I could use in a controlled setting to practice protecting a computer from malicious USB devices. The first thing I did with this project was that I flashed the Neo Trinkey with CircuitPython, the main issue that I faced here was
