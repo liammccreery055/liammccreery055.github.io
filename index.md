@@ -45,9 +45,9 @@ PICTURE HERE
 
 WRITE UP HERE 
 
-### Deploy SIEM In Home Lab
+### Deploy SIEM In Home Lab(planned)
 
-PICTURE OF SIEM USED
+PICTURE OF SIEM you will use
 
 WRITE UP PLAN FOR PROJECT
 
