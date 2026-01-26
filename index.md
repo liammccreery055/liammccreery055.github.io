@@ -55,13 +55,19 @@ This is important since a misconfiguration in security could cause millions of d
 
 ![python logo](IMG_0927.png)
 
-WRITE UP HERE 
++ currently I am working on a python SSH logs monitor
+
++ it uses a regex search query and matches it to 
 
 ### Deploy SIEM In Home Lab(planned)
 
 ![splunk logo](IMG_0926.jpeg).
 
-WRITE UP PLAN FOR PROJECT
++ First I plan to get an Ubuntu Server virtual machine running and install splunk free on it
+
++ Next I plan to use different common methods of exploitation to see how certain techniques attackers use affects system logs and what the siem does about the attacks
+
++ Finally I plan to take note of my findings learn from there. 
 
 
 
