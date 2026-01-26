@@ -24,7 +24,7 @@ Python SSH monitoring Tool (in progess)
 
 ### Neo Trinkey USB Rubber Ducky
 
-![Adafruit Neo Trinkey](neotrinkey.jpg).
+![Adafruit Neo Trinkey](neotrinkey.jpg)
 
 I used an Adafruit Neo Trinkey flashed CircuitPython to create a Bad USB/USB rubber ducky device. The goal of this project was to learn how malicious USB devices operate, and what they are capable of.
 The motivation behind this project was to create a tool that I could use in a controlled setting to practice protecting a computer from malicious USB devices. The first thing I did with this project was that I flashed the Neo Trinkey with CircuitPython, the main issue that I faced here was
@@ -32,16 +32,28 @@ that I was unable to update the version of Circuit Python that was previously on
 payload file on the internal storage of the Trinkey, allowing the Trinkey to execute payloads very quickly. I learned that malicious HID input devices such as the Adafruit Neo Trinkey have huge potential to be misused, bad actors can plug a tool similar to mine into a PC and compromise it in a matter of seconds.
 This is important since a misconfiguration in security could cause millions of dollars in damages to critical IT infrastructure with something that costs as much as a bag of beef jerky, making it incredibly important to mitigate the risk of a malicious cable causing damage to IT infrastructure.
 
-### Cyber Patriot Scripting
+### CyberPatriot Scripting
 
-![cyberpatriot logo](IMG_0928.jpeg).
+![cyberpatriot logo](IMG_0928.jpeg)
 
 
-WRITE UP HERE  
++ I used Bash Powershell and CMD to automate security tasks in CyberPatriot
+
++ It Significantly reduced the time it took us to earn points
+
++ This Taught me not only how to use scripting languages but also how valuable automation is to security.
+
++ Taught me how scripting languages operate and what the appeal of using one would be
+
+#### Future improvments
+
++ Learn how to automate a wider variety of actions
+
++ Learn to use CMD and Powershell better
 
 ### Python SSH Monitor
 
-![python logo](IMG_0927.png).
+![python logo](IMG_0927.png)
 
 WRITE UP HERE 
 
