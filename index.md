@@ -28,7 +28,7 @@ Python SSH monitoring Tool (in progess)
 
 + I used an Adafruit Neo Trinkey to create a malicious HID input device/bad usb
 
-+ It runs a circuit python script that parsed a payload file and inputed keystrokes
++ It runs a circuit python script that parses a payload file and inputs keystrokes
 
 + I learned how malicious HID input devices work, and how to defend against them
 
@@ -65,15 +65,15 @@ Python SSH monitoring Tool (in progess)
 
 + currently I am working on a python SSH logs monitor
 
-+ It uses a regex search query and takes the IP address from a successful login attempt and count how many failed attempts and other suspicious activities took place.
++ It uses a regex search query and takes the IP address from a successful login attempt and counts how many failed attempts and other suspicious activities.
 
 ### Deploy SIEM In Home Lab(planned)
 
-![splunk logo](IMG_0926.jpeg).
+![splunk logo](IMG_0926.jpeg)
 
 + First I plan to get an Ubuntu Server virtual machine running and install splunk free on it
 
-+ Next I plan to use different common methods of exploitation to see how certain techniques attackers use affects system logs and what the siem does about the attacks
++ Next I plan to use different common methods of exploitation to see how certain techniques attackers use affects system logs and how the SIEM reacts to the attacks.
 
 + Finally I plan to take note of my findings learn from there. 
 
