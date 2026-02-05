@@ -45,37 +45,37 @@ Python SSH monitoring Tool (in progess)
 ![cyberpatriot logo](IMG_0928.jpeg)
 
 
-+ I used Bash Powershell and CMD to automate security tasks in CyberPatriot
++ I used Bash, Powershell, and CMD to automate security tasks in CyberPatriot.
 
-+ It Significantly reduced the time it took us to earn points
++ It Significantly reduced the time it took us to earn points.
 
 + This Taught me not only how to use scripting languages but also how valuable automation is to security.
 
-+ Taught me how scripting languages operate and what the appeal of using one would be
++ Taught me how scripting languages operate and what the appeal of using an interpreted scripting language would be compared to using a compiled language.
 
 #### Future improvments
 
-+ Learn how to automate a wider variety of actions
++ Learn how to automate a wider variety of actions.
 
-+ Learn to use CMD and Powershell more efficiently
++ Learn to use CMD and Powershell more efficiently.
 
 ### Python SSH Monitor
 
 ![python logo](IMG_0927.png)
 
-+ currently I am working on a python SSH logs monitor
++ Currently I am working on a python SSH log parser.
 
-+ It uses a regex search query and takes the IP address from a successful login attempt and counts how many failed attempts and other suspicious activities.
++ It uses a regex search query and takes the IP address from a successful login attempt and counts how many failed attempts and other suspicious activities that the IP address is tied to.
 
 ### Deploy SIEM In Home Lab(planned)
 
 ![splunk logo](IMG_0926.jpeg)
 
-+ First I plan to get an Ubuntu Server virtual machine running and install splunk free on it
++ First I plan to get an Ubuntu Server virtual machine running and install Splunk free on it.
 
-+ Next I plan to use different common methods of exploitation to see how certain techniques attackers use affects system logs and how the SIEM reacts to the attacks.
++ Next I plan to use different common methods of exploitation to see how certain techniques that attackers use affects system logs and how the SIEM reacts to the attacks.
 
-+ Finally I plan to take note of my findings learn from there. 
++ Finally I plan to take note of my findings and use them to improve my knowledge of tools similar to Splunk. 
 
 
 
