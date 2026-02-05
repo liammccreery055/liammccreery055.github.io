@@ -26,30 +26,56 @@ Python SSH monitoring Tool (in progess)
 
 ![Adafruit Neo Trinkey](neotrinkey.jpg)
 
-I used an Adafruit Neo Trinkey flashed CircuitPython to create a Bad USB/USB rubber ducky device. The goal of this project was to learn how malicious USB devices operate, and what they are capable of.
-The motivation behind this project was to create a tool that I could use in a controlled setting to practice protecting a computer from malicious USB devices. The first thing I did with this project was that I flashed the Neo Trinkey with CircuitPython, the main issue that I faced here was
-that I was unable to update the version of Circuit Python that was previously on the Neo Trinkey. To fix it I removed all of the data from the internal storage of the Neo Trinkey, which then allowed me to flash it with Circuit Python. I used the python script created by adafruit that would parse a 
-payload file on the internal storage of the Trinkey, allowing the Trinkey to execute payloads very quickly. I learned that malicious HID input devices such as the Adafruit Neo Trinkey have huge potential to be misused, bad actors can plug a tool similar to mine into a PC and compromise it in a matter of seconds.
-This is important since a misconfiguration in security could cause millions of dollars in damages to critical IT infrastructure with something that costs as much as a bag of beef jerky, making it incredibly important to mitigate the risk of a malicious cable causing damage to IT infrastructure.
++ I used an Adafruit Neo Trinkey to create a malicious HID input device/bad usb
 
-### Cyber Patriot Scripting
++ It runs a circuit python script that parses a payload file and inputs keystrokes
 
-INCLUDE PICTURE HERE
++ I learned how malicious HID input devices work, and how to defend against them
+
++ I learned that devices like these also have a potential for automating basic security hardening tasks
+
++ I learned how much potential damage a device like mine could cause and how important it is to protect against them
+
+#### Future Improvments
+
++ Develop potential Hardware/Software countermeasures to attacks like these
+
+### CyberPatriot Scripting
+
+![cyberpatriot logo](IMG_0928.jpeg)
 
 
-WRITE UP HERE  
++ I used Bash, Powershell, and CMD to automate security tasks in CyberPatriot.
+
++ It Significantly reduced the time it took us to earn points.
+
++ This Taught me not only how to use scripting languages but also how valuable automation is to security.
+
++ Taught me how scripting languages operate and what the appeal of using an interpreted scripting language would be compared to using a compiled language.
+
+#### Future improvments
+
++ Learn how to automate a wider variety of actions.
+
++ Learn to use CMD and Powershell more efficiently.
 
 ### Python SSH Monitor
 
-PICTURE HERE
+![python logo](IMG_0927.png)
 
-WRITE UP HERE 
++ Currently I am working on a python SSH log parser.
 
-### Deploy SIEM In Home Lab
++ It uses a regex search query and takes the IP address from a successful login attempt and counts how many failed attempts and other suspicious activities that the IP address is tied to.
 
-PICTURE OF SIEM USED
+### Deploy SIEM In Home Lab(planned)
 
-WRITE UP PLAN FOR PROJECT
+![splunk logo](IMG_0926.jpeg)
+
++ First I plan to get an Ubuntu Server virtual machine running and install Splunk free on it.
+
++ Next I plan to use different common methods of exploitation to see how certain techniques that attackers use affects system logs and how the SIEM reacts to the attacks.
+
++ Finally I plan to take note of my findings and use them to improve my knowledge of tools similar to Splunk. 
 
 
 
